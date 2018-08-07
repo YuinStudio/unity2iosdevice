@@ -22,8 +22,8 @@
 
 附上此時的時間與版本
 
-2018/08/07 12:24
-Unity 2018.2.2f1 （個人免費版）
-Xcode 9.4.1
-Mac OSX 10.13.6
-yuin.service@gmail.com
+2018/08/07 12:24  
+Unity 2018.2.2f1 （個人免費版）  
+Xcode 9.4.1  
+Mac OSX 10.13.6  
+yuin.service@gmail.com  
